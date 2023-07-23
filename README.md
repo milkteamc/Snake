@@ -1,11 +1,11 @@
-# Velocity-fork
+# Snake
 
-Waterfall's build system but then adapted for Velocity.
+Personal fork of Velocity.
 
-## How to 
+## How to (Getting a jar)
 
 ```bash
 git submodule init --update
-./forkname p
-./forkname b
+./snake p
+./snake b
 ```

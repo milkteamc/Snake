@@ -17,7 +17,7 @@ case "$1" in
         scripts/edit.sh || exit 1
     ;;
     *)
-        echo "Forkname build tool command. This provides a variety of commands to control the Forkname"
+        echo "Snake build tool command. This provides a variety of commands to control the Snake"
         echo "build. View below for details of the available commands."
         echo ""
         echo "Commands:"
