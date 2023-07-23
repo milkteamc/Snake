@@ -5,7 +5,7 @@ Personal fork of Velocity.
 ## How to (Getting a jar)
 
 ```bash
-git submodule init --update
+git submodule update --init
 ./snake p
 ./snake b
 ```

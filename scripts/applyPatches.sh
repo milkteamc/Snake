@@ -62,6 +62,6 @@ fi
 
 
 # Apply patches
-applyPatch Velocity Forkname HEAD
+applyPatch Velocity Snake-Proxy HEAD
 
 enableCommitSigningIfNeeded

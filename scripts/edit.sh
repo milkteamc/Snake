@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-pushd Forkname
+pushd Snake-Proxy
 git rebase --interactive upstream/upstream
 popd

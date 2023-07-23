@@ -25,7 +25,7 @@ case "$1" in
         echo "  * p, patch         | Applies all the patches to Velocity"
         echo "  * m, up, merge     | Utility to aid in merging upstream"
         echo "  * b, build         | Builds the project"
-        echo "                     | The bootstrap artifact can be found in Forkname/proxy/build/libs"
-        echo "  * e, edit          | Runs git rebase -i for Forkname, allowing patches to be easily modified"
+        echo "                     | The bootstrap artifact can be found in Snake-Proxy/proxy/build/libs"
+        echo "  * e, edit          | Runs git rebase -i for Snake-Proxy, allowing patches to be easily modified"
     ;;
 esac

@@ -3,6 +3,6 @@
 git submodule update --init && ./scripts/applyPatches.sh || exit 1
 
 if [ "$1" == "--jar" ]; then
-     cd Forkname
+     cd Snake-Proxy
      ./gradlew build
 fi
